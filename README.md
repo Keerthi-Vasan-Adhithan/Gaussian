@@ -14,7 +14,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Using np.zeros() set the matrix as null matrix.
 
 ## Program:
-'''
+```
 Program to solve a matrix using Gaussian elimination with partial pivoting.
 Developed by: Keerthi Vasan A
 RegisterNumber: 212222240048
